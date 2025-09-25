@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.servimg.com/u/f90/20/61/98/67/ba56ad11.png" alt="Bloom-OS Logo" width="300"/>
+  <img src="https://i90.servimg.com/u/f90/20/61/98/67/bloom-10.png" alt="Bloom-OS Logo" width="300"/>
 </p>
 
 
