@@ -34,9 +34,9 @@ Bloom-OS/
 
 Pasta Client ( local aonde fica ficheiros e arquivos do RPG Maker)
 
-Pasta Server (local onde fica o servidor do projeto e outros arquivos de suma importância para rodar o sistema)
+Pasta Server (local aonde fica o servidor do projeto e outros arquivos de suma importância para rodar o sistema)
 
-Pasta Utilitários ( local onde fica os complementos para o sistema assim como site, editores de conta e recuperação -painel administrativo)
+Pasta Utilitários ( local aonde fica os complementos para o sistema assim como site, editores de conta e recuperação -painel administrativo)
 
 # 🚀 Instalação e uso
 
