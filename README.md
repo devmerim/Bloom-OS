@@ -15,7 +15,7 @@ O objetivo do projeto é fornecer uma fundação sólida para quem deseja criar 
 - 🔗 **Conexão multiplayer** via WebSocket  
 - 🧾 **Sistema de contas** com até 5 personagens por jogador  
 - 🧍 **Criação e seleção de personagens** com sprites personalizadas  
-- 💬 **Chat completo** com canais (Mapa, Geral, Mercado, Privado e Jogo/Admin)  
+- 💬 **Chat completo** com canais (Mapa, Geral, Mercado, Grupo, Guilda, Privado e Jogo/Admin)  
 - 🎒 **Inventário persistente** (itens salvos no servidor)  
 - ⚔️ **Respawn de jogadores e monstros**  
 - 📦 **Baús e eventos sincronizados**  
