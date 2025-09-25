@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.servimg.com/u/f90/20/61/98/67/ba56ad11.png" alt="Bloom-OS Logo" width="300"/>
+</p>
+
+
 # 🌸 Bloom-OS
 
 **Bloom-OS** é uma base **open-source** para desenvolvimento de jogos **multiplayer online** no **RPG Maker MV**, construída para ser simples, expansível e acessível.  
